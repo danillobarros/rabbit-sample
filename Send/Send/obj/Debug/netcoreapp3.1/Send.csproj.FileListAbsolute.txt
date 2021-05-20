@@ -1,0 +1,16 @@
+D:\Desenvolvimento\CSharp\Rabbit\Send\Send\bin\Debug\netcoreapp3.1\Send.exe
+D:\Desenvolvimento\CSharp\Rabbit\Send\Send\bin\Debug\netcoreapp3.1\Send.deps.json
+D:\Desenvolvimento\CSharp\Rabbit\Send\Send\bin\Debug\netcoreapp3.1\Send.runtimeconfig.json
+D:\Desenvolvimento\CSharp\Rabbit\Send\Send\bin\Debug\netcoreapp3.1\Send.runtimeconfig.dev.json
+D:\Desenvolvimento\CSharp\Rabbit\Send\Send\bin\Debug\netcoreapp3.1\Send.dll
+D:\Desenvolvimento\CSharp\Rabbit\Send\Send\bin\Debug\netcoreapp3.1\Send.pdb
+D:\Desenvolvimento\CSharp\Rabbit\Send\Send\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+D:\Desenvolvimento\CSharp\Rabbit\Send\Send\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+D:\Desenvolvimento\CSharp\Rabbit\Send\Send\obj\Debug\netcoreapp3.1\Send.csprojAssemblyReference.cache
+D:\Desenvolvimento\CSharp\Rabbit\Send\Send\obj\Debug\netcoreapp3.1\Send.AssemblyInfoInputs.cache
+D:\Desenvolvimento\CSharp\Rabbit\Send\Send\obj\Debug\netcoreapp3.1\Send.AssemblyInfo.cs
+D:\Desenvolvimento\CSharp\Rabbit\Send\Send\obj\Debug\netcoreapp3.1\Send.csproj.CoreCompileInputs.cache
+D:\Desenvolvimento\CSharp\Rabbit\Send\Send\obj\Debug\netcoreapp3.1\Send.csproj.CopyComplete
+D:\Desenvolvimento\CSharp\Rabbit\Send\Send\obj\Debug\netcoreapp3.1\Send.dll
+D:\Desenvolvimento\CSharp\Rabbit\Send\Send\obj\Debug\netcoreapp3.1\Send.pdb
+D:\Desenvolvimento\CSharp\Rabbit\Send\Send\obj\Debug\netcoreapp3.1\Send.genruntimeconfig.cache
